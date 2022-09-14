@@ -1,4 +1,4 @@
-# Intermediate React Folder Structure with React 18 Stater Files
+# Intermediate React Folder Structure
 
 ## Available Scripts
 
